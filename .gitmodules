@@ -8,5 +8,5 @@
 	path = TP3-Architecture-distribu-e
 	url = https://github.com/hichamialaouichaymae/TP3-Architecture-distribu-e.git
 [submodule "TP2-SOA"]
-	path = TP2-SOA
+	path = TP4-SOA
 	url = https://github.com/hichamialaouichaymae/TP2-SOA.git
